@@ -1,5 +1,49 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-color: blue;
 }
+
+h1{
+    padding: 20px;
+    margin-left: 33%;
+    color: aliceblue;
+}
+
+img{
+    margin-left: 35%;
+    margin-bottom: 30px;
+}
+
+
+p{
+    
+    color: aliceblue;
+    margin-left: 33%;
+}
+
+
+.gene{
+    border: solid 1px #000;
+    padding: 20px;
+    background-color: #000;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.imgfin{
+    padding: 40px;
+}
+
+.aei{
+    display: flex;
+    margin: center;
+    
+}
+
+.aei img{
+padding: 20px;
+margin-left: 35%;
+}
+
